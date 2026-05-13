@@ -45,6 +45,8 @@ It is recommended to use one of the prebuilt sizes, but if you want to go custom
 
 ### 5ft Desk Shelf (5 x 2U 10" Racks)
 
+![Example configuration](images/example.jpg)
+
 My setup has 5 x 10" rack sections with a 2U:1U:1U:1U:2U configuration under a 5ft x 10" butcher block shelf. This allows for a wide cubby in the middle for tucking away my keyboard and mouse, while still having a couple of 2U sections for taller rack components. I opted to install rails on the front and back of the legs.
 
 - 6 x 3D-printed legs
